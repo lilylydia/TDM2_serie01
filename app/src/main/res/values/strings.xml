@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">exercice4</string>
+    <string name="color">Color</string>
+    <string name="save">Save</string>
+    <string name="description">description</string>
+    <string name="title">title</string>
+    <string name="add_a_task">Add a Task</string>
+    <string name="go_bring_eggs">Go Bring Eggs</string>
+    <string name="bring_6_eggs_from_super_market">Bring 6 eggs from super market</string>
+    <string name="_5pm_today">5pm today</string>
+    <string name="note">note</string>
+</resources>
