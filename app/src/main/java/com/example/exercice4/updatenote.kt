@@ -117,7 +117,6 @@ class updateNoteActivity : AppCompatActivity() {
                 startActivity(Intent(this@updateNoteActivity, MainActivity::class.java))
             }
         }
-
         val ut = UpdateTask()
         ut.execute()
     }

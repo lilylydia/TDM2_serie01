@@ -24,6 +24,7 @@
         app:layout_constraintHorizontal_chainStyle="packed"
         app:layout_constraintStart_toStartOf="parent"
         android:tint="@color/colorLight"
+        app:srcCompat="@drawable/ic_plus_24"
         app:fabSize="normal" />
 
 </RelativeLayout>
