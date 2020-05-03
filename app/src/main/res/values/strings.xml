@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Emploi de temps</string>
+    <string name="ann_e">Année</string>
+    <string name="groupe">Groupes:</string>
+    <string name="_1cpi">1CPI</string>
+    <string name="_2cpi">2CPI</string>
+    <string name="_1cs">1CS</string>
+    <string name="_2cs">2CS</string>
+    <string name="_3cs">3CS</string>
+    <string name="module">Module</string>
+    <string name="jour">jour</string>
+    <string name="date">Date</string>
+
+
+</resources>

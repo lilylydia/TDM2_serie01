@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools"
+                android:orientation="vertical"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+    <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="3dp">
+
+        <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="7dp">
+
+            <TextView
+                    android:id="@+id/module"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="module"
+                    android:textAppearance="@style/Base.TextAppearance.AppCompat.Headline"/>
+
+            <TextView
+                    android:id="@+id/jour"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="date"
+                    android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"/>
+
+            <TextView
+                    android:id="@+id/Salle"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="salle"
+                    android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"/>
+            <TextView
+                    android:id="@+id/dateDeb"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="date_d_but"
+                    android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"/>
+            <TextView
+                    android:id="@+id/dateFin"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="date_fin"
+                    android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"/>
+            <TextView
+                    android:id="@+id/enseignant"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="enseignant"
+                    android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"/>
+
+        </LinearLayout>
+
+    </androidx.cardview.widget.CardView>
+
+</RelativeLayout>

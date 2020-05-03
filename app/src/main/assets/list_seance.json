@@ -1,0 +1,100 @@
+[
+    {
+      "Jour": "01/05/2020",
+      "HeureDeb": "08:30",
+      "HeureFin": "10:30",
+      "Module": "TDM2",
+      "Salle": "DPGR1",
+      "Enseignant": "Mr Mostefai",
+      "id": 1
+    },
+    {
+      "Jour": "01/05/2020",
+      "HeureDeb": "10:30",
+      "HeureFin": "12:30",
+      "Module": "TDW",
+      "Salle": "Salle Conf",
+      "Enseignant": "Mr Dellys",
+      "id": 2
+    },
+    {
+      "Jour": "01/05/2020",
+      "HeureDeb": "13:00",
+      "HeureFin": "15:00",
+      "Module": "ANAD",
+      "Salle": "AMPHI 1",
+      "Enseignant": "Mme Hamdad",
+      "id": 3
+    },
+    {
+      "Jour": "01/05/2020",
+      "HeureDeb": "15:30",
+      "HeureFin": "17:00",
+      "Module": "PDC",
+      "Salle": "CP1",
+      "Enseignant": "Mme Bousbia",
+      "id": 4
+    },
+    {
+      "Jour": "02/05/2020",
+      "HeureDeb": "08:30",
+      "HeureFin": "10:30",
+      "Module": "TPGO",
+      "Salle": "Salle 4",
+      "Enseignant": "Mr Zegour",
+      "id": 5
+    },{
+      "Jour": "02/05/2020",
+      "HeureDeb": "10:40",
+      "HeureFin": "12:10",
+      "Module": "COMPIL",
+      "Salle": "CP3",
+      "Enseignant": "Mr Chebieb",
+      "id": 6
+    },
+    {
+      "Jour": "01/05/2020",
+      "HeureDeb": "08:30",
+      "HeureFin": "10:30",
+      "Module": "TDM2",
+      "Salle": "DPGR1",
+      "Enseignant": "Mr Mostefai",
+      "id": 7
+    },
+    {
+      "Jour": "01/05/2020",
+      "HeureDeb": "08:30",
+      "HeureFin": "10:30",
+      "Module": "TDM2",
+      "Salle": "DPGR1",
+      "Enseignant": "Mr Mostefai",
+      "id": 8
+    },
+    {
+      "Jour": "01/05/2020",
+      "HeureDeb": "08:30",
+      "HeureFin": "10:30",
+      "Module": "TDM2",
+      "Salle": "DPGR1",
+      "Enseignant": "Mr Mostefai",
+      "id": 9
+    },
+    {
+      "Jour": "01/05/2020",
+      "HeureDeb": "08:30",
+      "HeureFin": "10:30",
+      "Module": "TDM2",
+      "Salle": "DPGR1",
+      "Enseignant": "Mr Mostefai",
+      "id": 10
+    },
+    {
+      "Jour": "01/05/2020",
+      "HeureDeb": "08:30",
+      "HeureFin": "10:30",
+      "Module": "TDM2",
+      "Salle": "DPGR1",
+      "Enseignant": "Mr Mostefai",
+      "id": 11
+    }
+]
